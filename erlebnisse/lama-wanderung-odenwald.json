@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "odenwald-lama-wanderung",
+  "slug": "lama-wanderung-odenwald",
+  "title": "Lama-Wanderung im Odenwald – entschleunigtes Highlight",
+  "summary": "Ruhige, besondere Tour: Wandern mit Lamas (super für Familien und kleine Gruppen).",
+  "description": "Ein entschleunigtes Erlebnis mit hohem Erinnerungswert. Ideal, wenn ihr etwas Besonderes wollt, aber nicht 'Action' im klassischen Sinn. Anbieter/Ort variieren — im Datensatz kann später ein konkreter Anbieter ergänzt werden.",
+  "main_category": "tiere-naturerlebnis",
+  "tags": ["outdoor", "kids-ok", "animals", "calm", "paid", "halfday", "sunny-best", "photo"],
+  "emoji_tags": ["🦙", "🌳", "🧒", "🧘", "📸"],
+  "where": {
+    "city": "Odenwald (variabler Anbieter)",
+    "region": "Odenwald",
+    "start_point_hint": "Treffpunkt je nach Anbieter."
+  },
+  "geo": { "center": { "lat": 49.650, "lon": 8.850 }, "approx_radius_m": 25000 },
+  "duration": { "min_minutes": 120, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 30, "max_minutes": 90, "notes": "Je nach Anbieterstandort." },
+  "mobility": {
+    "modes_ok": ["car"],
+    "car_recommended": true,
+    "notes": "Meist außerhalb – Auto praktisch."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "no",
+    "notes": "Wanderformat, Kinderwagen i. d. R. ungeeignet."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": { "type": "paid", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Preis hängt vom Anbieter ab." },
+  "images": [{ "src": "img/lama-wanderung-odenwald.png", "alt": "Lama-Wanderung im Odenwald" }],
+  "highlights": ["Sehr besonderes Erlebnis", "Entschleunigt, familienfreundlich", "Sehr fotogen"],
+  "itinerary_steps": [
+    { "title": "Anbieter/Slot wählen", "hint": "Vorab buchen (Slots sind oft begrenzt)." },
+    { "title": "Tour", "hint": "Ruhig bleiben – Tiere geben Tempo vor." },
+    { "title": "Ausklang", "hint": "Optional kurzer Abstecher in ein Café/Ort." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

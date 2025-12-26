@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-sieben-huegelsteig",
+  "slug": "sieben-huegelsteig-darmstadt",
+  "title": "7-Hügelsteig Darmstadt – sportliche Wanderung in Stadtnähe",
+  "summary": "Wanderrunde mit Höhenmetern: ideal für sportliche 2–6 Stunden.",
+  "description": "Wenn ihr Bewegung wollt: Der 7-Hügelsteig ist ein sehr gutes Ziel, weil er wie ein echtes Abenteuer wirkt, aber direkt in/um Darmstadt machbar ist.",
+  "main_category": "wandern-wege",
+  "tags": ["outdoor", "active", "paid", "halfday", "sunny-best", "walk-friendly", "photo"],
+  "emoji_tags": ["🥾", "🌳", "⚡", "🌅", "📸"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Stadt & Umgebung",
+    "start_point_hint": "Einstieg flexibel je nach Route."
+  },
+  "geo": { "center": { "lat": 49.870, "lon": 8.650 }, "approx_radius_m": 8000 },
+  "duration": { "min_minutes": 150, "max_minutes": 360 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 25, "notes": "Je nach Einstieg." },
+  "mobility": {
+    "modes_ok": ["walk", "bike", "public"],
+    "car_recommended": false,
+    "notes": "Stadtnah, gut per ÖPNV/zu Fuß erreichbar (je nach Einstieg)."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["11+"],
+    "stroller_ok": "no",
+    "notes": "Für kleine Kinder ggf. zu lang/zu hügelig."
+  },
+  "vibe": { "action_level": 2, "calm_level": 3 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": { "type": "free", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Wandern kostenlos." },
+  "images": [{ "src": "img/sieben-huegelsteig-darmstadt.png", "alt": "Wandern in Darmstadt – 7 Hügel" }],
+  "highlights": ["Sportlich & stadtnah", "Sehr gutes Gefühl von 'Tour'", "Fotogen"],
+  "itinerary_steps": [
+    { "title": "Start", "hint": "Wasser + Snack mitnehmen." },
+    { "title": "Runde", "hint": "Pausen an schönen Stellen einbauen." },
+    { "title": "Finish", "hint": "Cooldown: 10 Minuten locker auslaufen." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

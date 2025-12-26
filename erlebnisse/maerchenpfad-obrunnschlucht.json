@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "odenwald-maerchenpfad-obrunnschlucht",
+  "slug": "maerchenpfad-obrunnschlucht",
+  "title": "Märchenpfad in der Obrunnschlucht – Familienrunde mit Story",
+  "summary": "Themenweg mit Märchen-Elementen, perfekt für Kinder und entspanntes Wandern.",
+  "description": "Ein sehr dankbarer Familienausflug: laufen, entdecken, kleine Stationen – ohne großen Planungsaufwand. Ideal 2–4 Stunden inklusive Pausen.",
+  "main_category": "wandern-wege",
+  "tags": ["outdoor", "kids-ok", "nature", "calm", "halfday", "free", "photo", "sunny-best"],
+  "emoji_tags": ["🥾", "🧒", "🌲", "✨", "📸"],
+  "where": {
+    "city": "Odenwald (Obrunnschlucht)",
+    "region": "Odenwald",
+    "start_point_hint": "Startpunkt/Parplatz je nach Route vor Ort."
+  },
+  "geo": { "center": { "lat": 49.700, "lon": 8.950 }, "approx_radius_m": 3000 },
+  "duration": { "min_minutes": 120, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 45, "max_minutes": 80, "notes": "Laut deiner Liste ca. 1h." },
+  "mobility": {
+    "modes_ok": ["car"],
+    "car_recommended": true,
+    "notes": "Typischer Odenwald-Ausflug."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["0-5", "6-10", "11+"],
+    "stroller_ok": "limited",
+    "notes": "Schlucht/Wege können uneben sein."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": { "type": "free", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Meist kostenlos; Parken ggf. separat." },
+  "images": [{ "src": "img/maerchenpfad-obrunnschlucht.png", "alt": "Märchenpfad Obrunnschlucht" }],
+  "highlights": ["Top für Familien", "Entspannt, storybasiert", "Sehr fotogen"],
+  "itinerary_steps": [
+    { "title": "Start", "hint": "Kurze Erklärung: heute 'Märchen-Detektive' spielen." },
+    { "title": "Runde laufen", "hint": "Stationen mit kleinen Aufgaben kombinieren." },
+    { "title": "Picknick", "hint": "Kurzer Snack macht’s perfekt." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

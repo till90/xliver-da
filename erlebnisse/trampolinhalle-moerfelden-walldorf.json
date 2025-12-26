@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "rhein-main-trampolinhalle-moerfelden-walldorf",
+  "slug": "trampolinhalle-moerfelden-walldorf",
+  "title": "Trampolinhalle Mörfelden-Walldorf – Indoor-Energiebooster",
+  "summary": "Wenn Kinder (oder Erwachsene) Energie haben: 60–120 Minuten springen wirkt.",
+  "description": "Sehr zuverlässiges Indoor-Erlebnis, besonders bei Regen oder im Winter. Ideal für Familien und als kurzer, klarer Block.",
+  "main_category": "action-freizeitpark",
+  "tags": ["indoor", "kids-ok", "active", "action", "paid", "short", "rain-ok"],
+  "emoji_tags": ["🤸", "🔥", "🏠", "🧒", "🌧️"],
+  "where": {
+    "city": "Mörfelden-Walldorf",
+    "region": "Rhein-Main",
+    "start_point_hint": "Trampolinhalle – Einlass/Slot je nach Betreiber."
+  },
+  "geo": { "center": { "lat": 49.990, "lon": 8.570 }, "approx_radius_m": 3000 },
+  "duration": { "min_minutes": 60, "max_minutes": 150 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 15, "max_minutes": 40, "notes": "Je nach Verkehr." },
+  "mobility": {
+    "modes_ok": ["car", "public"],
+    "car_recommended": false,
+    "notes": "Je nach Lage ggf. gut mit ÖPNV erreichbar."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "no",
+    "notes": "Regeln/Zeitslots/Grip-Socken je Betreiber."
+  },
+  "vibe": { "action_level": 4, "calm_level": 1 },
+  "setting": { "indoor_outdoor": "indoor", "rain_ok": "yes", "best_weather": "any" },
+  "cost": { "type": "paid", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Preis je Betreiber/Zeitslot." },
+  "images": [{ "src": "img/trampolinhalle-moerfelden-walldorf.png", "alt": "Trampolinhalle" }],
+  "highlights": ["Top Regenprogramm", "Hoher Bewegungs-Output", "Kurzer, klarer Block"],
+  "itinerary_steps": [
+    { "title": "Slot/Regeln", "hint": "Vorab Zeiten/Regeln checken." },
+    { "title": "Jump-Session", "hint": "60–90 Minuten reichen oft." },
+    { "title": "Cooldown", "hint": "Trinken + kleiner Snack." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

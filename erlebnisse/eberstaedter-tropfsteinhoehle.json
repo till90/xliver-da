@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-eberstadt-tropfsteinhoehle",
+  "slug": "eberstaedter-tropfsteinhoehle",
+  "title": "Eberstädter Tropfsteinhöhle – perfektes Regenprogramm",
+  "summary": "Höhlen-Feeling, konstant kühl, ideal für einen kurzen Ausflug mit Wow-Faktor.",
+  "description": "Eine geführte Höhlenerfahrung in Darmstadt-Eberstadt. Besonders stark, wenn es draußen ungemütlich ist oder du etwas 'Besonderes' suchst, ohne weit zu fahren.",
+  "main_category": "indoor-regenprogramm",
+  "tags": ["indoor", "kids-ok", "geo-felsen-hoehle", "calm", "photo", "paid", "short", "rain-ok"],
+  "emoji_tags": ["🪨", "🏠", "🌧️", "🧒", "✨"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Eberstadt",
+    "start_point_hint": "Eberstadt (Tropfsteinhöhle) – Beschilderung/Startpunkt vor Ort."
+  },
+  "geo": {
+    "center": { "lat": 49.821, "lon": 8.666 },
+    "approx_radius_m": 800
+  },
+  "duration": { "min_minutes": 60, "max_minutes": 120 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 10, "max_minutes": 25, "notes": "Innerstädtisch/Regional." },
+  "mobility": {
+    "modes_ok": ["car", "public"],
+    "car_recommended": false,
+    "notes": "ÖPNV in der Region meist gut, Rest zu Fuß."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "no",
+    "notes": "Höhle typischerweise mit Stufen/engen Passagen."
+  },
+  "vibe": { "action_level": 1, "calm_level": 4 },
+  "setting": { "indoor_outdoor": "indoor", "rain_ok": "yes", "best_weather": "any" },
+  "cost": {
+    "type": "paid",
+    "min_eur_pp": 0,
+    "max_eur_pp": 0,
+    "notes": "Eintritt/Führung – Preise/Zeiten vor Ort prüfen."
+  },
+  "images": [
+    { "src": "img/eberstaedter-tropfsteinhoehle.png", "alt": "Tropfsteinhöhle Eberstadt" }
+  ],
+  "highlights": [
+    "Top bei Regen/Hitze (konstant kühl)",
+    "Geo-Erlebnis ohne lange Anfahrt",
+    "Gute 'Story' für Kinder"
+  ],
+  "itinerary_steps": [
+    { "title": "Anreise & Check-in", "hint": "Zeitslot/Öffnung beachten (vorher checken)." },
+    { "title": "Führung", "hint": "Warm anziehen, rutschfeste Schuhe." },
+    { "title": "Kurzer Ausklang", "hint": "Optional: kurzer Spaziergang danach." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

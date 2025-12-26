@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "odenwald-kletterwald-waldmichelbach",
+  "slug": "kletterwald-waldmichelbach",
+  "title": "Kletterwald Wald-Michelbach – Hochseil, Parcours, Action",
+  "summary": "Kletterspaß im Wald mit Parcours in verschiedenen Schwierigkeitsgraden.",
+  "description": "Aktives Outdoor-Erlebnis im Odenwald. Ideal, wenn ihr Action wollt und 2–4 Stunden Zeit habt. Für Familien geeignet (je nach Größe/Alter und Parcours-Regeln vor Ort).",
+  "main_category": "klettern-kletterwald",
+  "tags": ["outdoor", "kids-ok", "active", "action", "paid", "halfday", "sunny-best"],
+  "emoji_tags": ["🧗", "🌲", "🔥", "🧒", "⚡"],
+  "where": {
+    "city": "Wald-Michelbach",
+    "region": "Odenwald",
+    "start_point_hint": "Kletterwald – Start/Einweisung vor Ort."
+  },
+  "geo": { "center": { "lat": 49.570, "lon": 8.850 }, "approx_radius_m": 1500 },
+  "duration": { "min_minutes": 120, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 45, "max_minutes": 75, "notes": "Laut deiner Liste ca. 1h." },
+  "mobility": {
+    "modes_ok": ["car", "public"],
+    "car_recommended": true,
+    "notes": "Vor Ort zu Fuß im Gelände."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "no",
+    "notes": "Parcours abhängig von Körpergröße/Regeln; vor Ort checken."
+  },
+  "vibe": { "action_level": 5, "calm_level": 1 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "no", "best_weather": "dry" },
+  "cost": {
+    "type": "paid",
+    "min_eur_pp": 14,
+    "max_eur_pp": 20,
+    "notes": "Laut deiner Liste: 20€ / 14€ (vermutlich nach Alter)."
+  },
+  "images": [{ "src": "img/kletterwald-waldmichelbach.png", "alt": "Kletterwald im Odenwald" }],
+  "highlights": ["Starkes Action-Erlebnis", "Gute Familienoption (altersabhängig)", "Perfekt für 2–4 Stunden"],
+  "itinerary_steps": [
+    { "title": "Ankommen & Einweisung", "hint": "Zeit für Einweisung einplanen." },
+    { "title": "Parcours wählen", "hint": "Mit leichteren Parcours starten, dann steigern." },
+    { "title": "Pause/Finish", "hint": "Snack + kurze Erholung vor Heimfahrt." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

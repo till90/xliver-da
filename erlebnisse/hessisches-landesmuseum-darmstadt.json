@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-hessisches-landesmuseum",
+  "slug": "hessisches-landesmuseum-darmstadt",
+  "title": "Hessisches Landesmuseum Darmstadt – Kultur mit Kindertauglichkeit",
+  "summary": "Sehr gutes Indoor-Erlebnis: Kultur, Naturkunde und Staunen in einem Haus.",
+  "description": "Ideal, wenn du wenig Planungszeit hast: reingehen, treiben lassen, Lieblingsabteilungen finden. Funktioniert für Solo, zu zweit und mit Kindern.",
+  "main_category": "kultur-geschichte",
+  "tags": ["indoor", "kids-ok", "culture", "calm", "rain-ok", "paid", "short"],
+  "emoji_tags": ["🏛️", "🌧️", "🧒", "✨", "📸"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Innenstadt",
+    "start_point_hint": "Innenstadt – Museumseingang (zentral)."
+  },
+  "geo": {
+    "center": { "lat": 49.874, "lon": 8.651 },
+    "approx_radius_m": 900
+  },
+  "duration": { "min_minutes": 90, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 20, "notes": "Je nach Startpunkt in Darmstadt." },
+  "mobility": {
+    "modes_ok": ["walk", "public", "bike"],
+    "car_recommended": false,
+    "notes": "Innenstadtlage: ÖPNV/zu Fuß oft am entspanntesten."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Je nach Bereich/Andrang."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "indoor", "rain_ok": "yes", "best_weather": "any" },
+  "cost": {
+    "type": "mixed",
+    "min_eur_pp": 0,
+    "max_eur_pp": 0,
+    "notes": "Laut deiner Liste: Kinder & Studi kostenlos. Sonst Preise vor Ort prüfen."
+  },
+  "images": [
+    { "src": "img/hessisches-landesmuseum-darmstadt.png", "alt": "Hessisches Landesmuseum Darmstadt" }
+  ],
+  "highlights": [
+    "Regenprogramm mit hoher Qualität",
+    "Sehr flexibel (90 min bis halber Tag)",
+    "Gute Option ohne lange Anfahrt"
+  ],
+  "itinerary_steps": [
+    { "title": "Start: Highlights wählen", "hint": "Erst 1–2 Abteilungen festlegen, dann treiben lassen." },
+    { "title": "Pause", "hint": "Kurzer Break hilft (Kinder!)." },
+    { "title": "Finale Runde", "hint": "Lieblingsstücke nochmal ansehen." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

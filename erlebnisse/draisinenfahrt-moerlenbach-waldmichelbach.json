@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "odenwald-draisinenfahrt-moerlenbach-waldmichelbach",
+  "slug": "draisinenfahrt-moerlenbach-waldmichelbach",
+  "title": "Draisinenfahrt Mörlenbach/Wald-Michelbach – besonderes Gruppen-Erlebnis",
+  "summary": "Ungewöhnlich, aktiv und als Familien- oder Freundesgruppe sehr erinnerungswürdig.",
+  "description": "Draisine fahren ist 'anders' und macht als Gruppe am meisten Spaß. Perfekt, wenn ihr etwas Außergewöhnliches sucht und einen halben Tag verplanen wollt.",
+  "main_category": "besondere-erlebnisse",
+  "tags": ["outdoor", "kids-ok", "active", "paid", "halfday", "photo", "sunny-best"],
+  "emoji_tags": ["🚲", "✨", "🧒", "⚡", "📸"],
+  "where": {
+    "city": "Mörlenbach/Wald-Michelbach",
+    "region": "Odenwald",
+    "start_point_hint": "Start/Einweisung je nach Betreiber/Route."
+  },
+  "geo": { "center": { "lat": 49.600, "lon": 8.800 }, "approx_radius_m": 12000 },
+  "duration": { "min_minutes": 150, "max_minutes": 300 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 45, "max_minutes": 80, "notes": "Laut deiner Liste ca. 1h." },
+  "mobility": {
+    "modes_ok": ["car"],
+    "car_recommended": true,
+    "notes": "Anreise meist am einfachsten per Auto."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "no",
+    "notes": "Eher Aktiv-Erlebnis, abhängig vom Betreiber."
+  },
+  "vibe": { "action_level": 3, "calm_level": 1 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "no", "best_weather": "dry" },
+  "cost": {
+    "type": "paid",
+    "min_eur_pp": 60,
+    "max_eur_pp": 120,
+    "notes": "Laut deiner Liste: 60–120€ (vermutlich pro Gruppe/Variante)."
+  },
+  "images": [{ "src": "img/draisinenfahrt-moerlenbach-waldmichelbach.png", "alt": "Draisinenfahrt im Odenwald" }],
+  "highlights": ["Sehr besonderes Erlebnis", "Ideal als Gruppe", "Aktiv ohne 'Sportdruck'"],
+  "itinerary_steps": [
+    { "title": "Slot buchen", "hint": "Vorab reservieren." },
+    { "title": "Fahrt", "hint": "Pausen einplanen, Foto-Stopps." },
+    { "title": "Ausklang", "hint": "Optional Einkehr/Spaziergang." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

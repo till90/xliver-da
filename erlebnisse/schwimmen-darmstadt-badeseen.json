@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-schwimmen-badeseen",
+  "slug": "schwimmen-darmstadt-badeseen",
+  "title": "Schwimmen in Darmstadt – Woog / Grube / Mühlchen / Aje",
+  "summary": "Sichere Sommer-Option: Wasser, Bewegung, schnelle Erholung.",
+  "description": "Wenn ihr bei warmem Wetter nicht wisst, was ihr machen sollt: Schwimmen funktioniert fast immer. In diesem Eintrag bündelst du mehrere Spots; später kannst du sie auch als einzelne Erlebnisse splitten.",
+  "main_category": "wasser-schwimmen",
+  "tags": ["outdoor", "active", "paid", "halfday", "sunny-best", "kids-ok", "water", "photo"],
+  "emoji_tags": ["🏊", "💦", "☀️", "🧒", "🌳"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Stadtgebiet",
+    "start_point_hint": "Spot wählen: Woog / Grube / Mühlchen / Aje."
+  },
+  "geo": { "center": { "lat": 49.872, "lon": 8.650 }, "approx_radius_m": 12000 },
+  "duration": { "min_minutes": 90, "max_minutes": 300 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 35, "notes": "Je nach Spot." },
+  "mobility": {
+    "modes_ok": ["bike", "public", "car"],
+    "car_recommended": false,
+    "notes": "Viele Spots gut per Rad/ÖPNV erreichbar."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["0-5", "6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Badesachen/Wechselkleidung einplanen."
+  },
+  "vibe": { "action_level": 2, "calm_level": 3 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "no", "best_weather": "sunny" },
+  "cost": { "type": "paid", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Je nach Bad/Eintritt." },
+  "images": [{ "src": "img/schwimmen-darmstadt-badeseen.png", "alt": "Schwimmen in Darmstadt" }],
+  "highlights": ["Sehr zuverlässig im Sommer", "Familientauglich", "Einfacher Plan ohne viel Vorbereitung"],
+  "itinerary_steps": [
+    { "title": "Spot wählen", "hint": "Nähe + Parkplatz/ÖPNV entscheiden." },
+    { "title": "Schwimmen", "hint": "1–2 Stunden reichen oft völlig." },
+    { "title": "Ausklang", "hint": "Snack/Eis und gemütlich heim." }
+  ],
+  "extra": {
+    "spots": ["Woog", "Grube", "Mühlchen", "Aje"]
+  },
+  "links": [],
+  "updated": "2025-12-26"
+}

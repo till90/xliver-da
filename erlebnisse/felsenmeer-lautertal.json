@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "odenwald-felsenmeer-lautertal",
+  "slug": "felsenmeer-lautertal",
+  "title": "Felsenmeer – Odenwald-Klassiker zum Klettern & Staunen",
+  "summary": "Riesige Felsblöcke, Natur und ein Ausflug, der bei Kindern fast immer zündet.",
+  "description": "Ein geologisches Highlight im Odenwald: ein großes Feld aus Felsblöcken, ideal zum Entdecken, kurzen Wandern und sicheren 'Abenteuer'-Momenten. Perfekt als Halbtag oder entspannter Ganztagesausflug.",
+  "main_category": "natur-aussicht",
+  "tags": ["outdoor", "kids-ok", "geo-felsen-hoehle", "nature", "active", "photo", "paid", "halfday"],
+  "emoji_tags": ["🪨", "🌳", "🧒", "📸", "⚡"],
+  "where": {
+    "city": "Lautertal (Odenwald)",
+    "region": "Odenwald",
+    "start_point_hint": "Parkplatz/Start am Felsenmeer (Hinweise vor Ort)."
+  },
+  "geo": {
+    "center": { "lat": 49.709, "lon": 8.703 },
+    "approx_radius_m": 1200
+  },
+  "duration": { "min_minutes": 120, "max_minutes": 300 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 35, "max_minutes": 60, "notes": "Je nach Verkehr." },
+  "mobility": {
+    "modes_ok": ["car", "public"],
+    "car_recommended": true,
+    "notes": "Vor Ort viel zu Fuß auf unebenem Untergrund."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "no",
+    "notes": "Kinderwagen im Blockfeld meist ungeeignet."
+  },
+  "vibe": { "action_level": 3, "calm_level": 2 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": {
+    "type": "mixed",
+    "min_eur_pp": 0,
+    "max_eur_pp": 0,
+    "notes": "Kein Eintritt, Parken ca. 5 € (laut deiner Liste)."
+  },
+  "images": [
+    { "src": "img/felsenmeer-lautertal.png", "alt": "Felsenmeer im Odenwald" }
+  ],
+  "highlights": [
+    "Geo-Spot mit echtem Wow-Effekt",
+    "Kinder finden schnell 'ihr Abenteuer'",
+    "Sehr fotogen"
+  ],
+  "itinerary_steps": [
+    { "title": "Ankommen & Überblick", "hint": "Kurz orientieren, sichere Wege wählen." },
+    { "title": "Entdecken & Klettern", "hint": "Zeit lassen – der Ort 'funktioniert' ohne Plan." },
+    { "title": "Optional: Mini-Runde", "hint": "Kurze Wege drumherum verlängern das Erlebnis." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

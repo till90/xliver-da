@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-theater-abend",
+  "slug": "theater-abend-darmstadt",
+  "title": "Theaterabend – Kultur als klares 'Event'",
+  "summary": "Abendprogramm mit echter Wirkung: raus aus dem Alltag, rein in die Bühne.",
+  "description": "Wenn ihr etwas 'Rundes' wollt: Theater ist ein klarer Plan. Ideal als Paar, mit Freunden oder (stückabhängig) auch mit Kindern.",
+  "main_category": "kultur-geschichte",
+  "tags": ["indoor", "culture", "calm", "paid", "short", "rain-ok"],
+  "emoji_tags": ["🎭", "🏛️", "🌙", "✨", "🌧️"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Innenstadt",
+    "start_point_hint": "Spielstätte je nach Programm."
+  },
+  "geo": { "center": { "lat": 49.872, "lon": 8.650 }, "approx_radius_m": 3000 },
+  "duration": { "min_minutes": 120, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 25, "notes": "Je nach Spielstätte." },
+  "mobility": {
+    "modes_ok": ["walk", "public", "bike"],
+    "car_recommended": false,
+    "notes": "Innenstadt: ÖPNV/zu Fuß oft besser."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "no",
+    "notes": "Stückwahl entscheidend."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "indoor", "rain_ok": "yes", "best_weather": "any" },
+  "cost": { "type": "paid", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Ticketpreise variieren." },
+  "images": [{ "src": "img/theater-abend-darmstadt.png", "alt": "Theaterabend" }],
+  "highlights": ["Klares Abend-Event", "Raus aus dem Alltag", "Perfekt bei Regen"],
+  "itinerary_steps": [
+    { "title": "Stück wählen", "hint": "Mood: Komödie vs Drama vs Kinderstück." },
+    { "title": "Ankommen", "hint": "10–15 Minuten Puffer." },
+    { "title": "Ausklang", "hint": "Danach kurzer Drink/Spaziergang." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

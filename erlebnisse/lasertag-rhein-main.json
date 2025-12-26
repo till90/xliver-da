@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "rhein-main-lasertag",
+  "slug": "lasertag-rhein-main",
+  "title": "Lasertag – Indoor-Action, wenn ihr Energie loswerden wollt",
+  "summary": "Kurzer Action-Block, perfekt bei Regen oder wenn ihr 'mal was anderes' wollt.",
+  "description": "Lasertag ist eine sehr zuverlässige Option: wenig Planung, hoher Aktivitätsgrad. Ideal für Freundesgruppen und ältere Kinder/Jugendliche.",
+  "main_category": "action-freizeitpark",
+  "tags": ["indoor", "action", "active", "paid", "short", "rain-ok"],
+  "emoji_tags": ["🔫", "🔥", "🏠", "⚡", "🌧️"],
+  "where": {
+    "city": "Rhein-Main (variabler Anbieter)",
+    "region": "Rhein-Main",
+    "start_point_hint": "Ort je nach Anbieter (später konkretisieren)."
+  },
+  "geo": { "center": { "lat": 49.900, "lon": 8.650 }, "approx_radius_m": 35000 },
+  "duration": { "min_minutes": 60, "max_minutes": 150 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 10, "max_minutes": 45, "notes": "Je nach Anbieterstandort." },
+  "mobility": {
+    "modes_ok": ["public", "car"],
+    "car_recommended": false,
+    "notes": "Je nach Location kann ÖPNV gut funktionieren."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["11+"],
+    "stroller_ok": "no",
+    "notes": "Meist ab bestimmtem Alter; Regeln vor Ort prüfen."
+  },
+  "vibe": { "action_level": 5, "calm_level": 1 },
+  "setting": { "indoor_outdoor": "indoor", "rain_ok": "yes", "best_weather": "any" },
+  "cost": { "type": "paid", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Preis je Anbieter/Session." },
+  "images": [{ "src": "img/lasertag-rhein-main.png", "alt": "Lasertag Arena" }],
+  "highlights": ["Sehr gutes Regenprogramm", "Hoher Action-Faktor", "Wenig Planungsaufwand"],
+  "itinerary_steps": [
+    { "title": "Slot buchen", "hint": "Abends/Wochenende oft ausgebucht." },
+    { "title": "Einweisung", "hint": "Kurz zuhören, dann geht’s los." },
+    { "title": "Cooldown", "hint": "Getränk + 10 Minuten Pause." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

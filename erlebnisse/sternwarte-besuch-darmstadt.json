@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-sternwarte-besuch",
+  "slug": "sternwarte-besuch-darmstadt",
+  "title": "Sternwarte besichtigen – Abendliches Wow-Erlebnis",
+  "summary": "Besonderes Abendprogramm: Sterne, Teleskop, Fragen, Staunen.",
+  "description": "Ideal als 'Special': wenn ihr etwas erleben wollt, das hängen bleibt. Funktioniert besonders gut, wenn der Himmel klar ist.",
+  "main_category": "besondere-erlebnisse",
+  "tags": ["indoor", "culture", "calm", "paid", "short", "photo"],
+  "emoji_tags": ["🔭", "✨", "🌙", "🧠", "📸"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Stadt/Umgebung",
+    "start_point_hint": "Sternwarte/Veranstaltung je nach Anbieter/Termin."
+  },
+  "geo": { "center": { "lat": 49.872, "lon": 8.650 }, "approx_radius_m": 12000 },
+  "duration": { "min_minutes": 90, "max_minutes": 180 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 40, "notes": "Je nach Ort/Termin." },
+  "mobility": {
+    "modes_ok": ["public", "car", "bike"],
+    "car_recommended": false,
+    "notes": "Hängt von der Sternwarte ab."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "limited",
+    "notes": "Abendformat; Kinder-Müdigkeit einplanen."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "mixed", "rain_ok": "limited", "best_weather": "clear" },
+  "cost": { "type": "paid", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Eintritt/Spende je Termin." },
+  "images": [{ "src": "img/sternwarte-besuch-darmstadt.png", "alt": "Sternwarte Besuch" }],
+  "highlights": ["Sehr besonders", "Abendprogramm mit Wow", "Perfekt für neugierige Köpfe"],
+  "itinerary_steps": [
+    { "title": "Termin checken", "hint": "Klarer Himmel + Veranstaltung." },
+    { "title": "Beobachtung", "hint": "Fragen sammeln, Guide löchern." },
+    { "title": "Ausklang", "hint": "Kurzer Nachhauseweg ohne Stress." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

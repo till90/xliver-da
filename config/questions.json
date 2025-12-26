@@ -1,0 +1,86 @@
+{
+  "schema_version": "1.0",
+  "wizard": [
+    {
+      "id": "time_budget",
+      "text": "Wie viel Zeit habt ihr für euer Abenteuer?",
+      "type": "single",
+      "options": [
+        { "id": "t_60", "label": "0.5–1 h", "min_minutes": 30, "max_minutes": 60 },
+        { "id": "t_120", "label": "1–2 h", "min_minutes": 60, "max_minutes": 120 },
+        { "id": "t_240", "label": "2–4 h", "min_minutes": 120, "max_minutes": 240 },
+        { "id": "t_halfday", "label": "Halber Tag", "min_minutes": 240, "max_minutes": 360 },
+        { "id": "t_fullday", "label": "Ganzer Tag", "min_minutes": 360, "max_minutes": 720 }
+      ]
+    },
+    {
+      "id": "travel_time_max",
+      "text": "Wie weit darf es maximal weg sein (Anfahrt von Darmstadt)?",
+      "type": "single",
+      "options": [
+        { "id": "d_15", "label": "0–15 min", "max_travel_minutes": 15 },
+        { "id": "d_30", "label": "15–30 min", "max_travel_minutes": 30 },
+        { "id": "d_60", "label": "30–60 min", "max_travel_minutes": 60 },
+        { "id": "d_90", "label": "60–90 min", "max_travel_minutes": 90 },
+        { "id": "d_any", "label": "Egal", "max_travel_minutes": 999 }
+      ]
+    },
+    {
+      "id": "mobility",
+      "text": "Wie seid ihr unterwegs?",
+      "type": "single",
+      "options": [
+        { "id": "m_walk_public", "label": "Zu Fuß / ÖPNV", "modes": ["walk", "public"] },
+        { "id": "m_bike", "label": "Fahrrad", "modes": ["bike"] },
+        { "id": "m_car", "label": "Auto", "modes": ["car"] },
+        { "id": "m_any", "label": "Egal", "modes": ["walk", "public", "bike", "car"] }
+      ]
+    },
+    {
+      "id": "kids",
+      "text": "Sind Kinder dabei?",
+      "type": "single",
+      "options": [
+        { "id": "k_no", "label": "Nein", "kids": false },
+        { "id": "k_0_5", "label": "Ja (0–5)", "kid_age_group": "0-5" },
+        { "id": "k_6_10", "label": "Ja (6–10)", "kid_age_group": "6-10" },
+        { "id": "k_11_plus", "label": "Ja (11+)", "kid_age_group": "11+" },
+        { "id": "k_mixed", "label": "Gemischt / egal", "kid_age_group": "mixed" }
+      ]
+    },
+    {
+      "id": "vibe",
+      "text": "Worauf habt ihr heute Lust?",
+      "type": "single",
+      "options": [
+        { "id": "v_calm", "label": "Entspannt / besinnlich", "target": { "calm": 5, "action": 1 } },
+        { "id": "v_easy", "label": "Locker aktiv", "target": { "calm": 3, "action": 2 } },
+        { "id": "v_sporty", "label": "Sportlich", "target": { "calm": 2, "action": 4 } },
+        { "id": "v_action", "label": "Action / Adrenalin", "target": { "calm": 1, "action": 5 } }
+      ]
+    },
+    {
+      "id": "setting",
+      "text": "Drinnen oder draußen?",
+      "type": "single",
+      "options": [
+        { "id": "s_out", "label": "Draußen", "setting": "outdoor" },
+        { "id": "s_in", "label": "Drinnen", "setting": "indoor" },
+        { "id": "s_mix", "label": "Gemischt", "setting": "mixed" },
+        { "id": "s_any", "label": "Egal", "setting": "any" }
+      ]
+    },
+    {
+      "id": "budget",
+      "text": "Budget pro Person (optional)?",
+      "type": "single_optional",
+      "options": [
+        { "id": "b_free", "label": "Kostenlos", "max_eur_pp": 0 },
+        { "id": "b_10", "label": "Bis 10 €", "max_eur_pp": 10 },
+        { "id": "b_25", "label": "10–25 €", "max_eur_pp": 25 },
+        { "id": "b_50", "label": "25–50 €", "max_eur_pp": 50 },
+        { "id": "b_any", "label": "Egal", "max_eur_pp": 999 }
+      ]
+    }
+  ]
+}

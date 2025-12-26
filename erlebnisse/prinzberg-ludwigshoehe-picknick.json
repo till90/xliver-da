@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-prinzenberg-ludwigshoehe-picknick",
+  "slug": "prinzenberg-ludwigshoehe-picknick",
+  "title": "Prinzenberg/Ludwigshöhe – Picknick mit Naturgefühl",
+  "summary": "Einfaches, sehr gutes 'ohne Plan' Erlebnis: raus, Decke, Snack, Aussicht/Wald.",
+  "description": "Perfekt, wenn ihr etwas Ruhiges sucht und trotzdem das Gefühl haben wollt, 'was gemacht' zu haben. Sehr gut mit Kindern (Bewegung + Pause).",
+  "main_category": "natur-aussicht",
+  "tags": ["outdoor", "kids-ok", "calm", "free", "halfday", "sunny-best", "photo"],
+  "emoji_tags": ["🌅", "🧺", "🧒", "🌳", "☀️"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Wald/Anhänge",
+    "start_point_hint": "Startpunkt flexibel: je nach Anreise/Route."
+  },
+  "geo": { "center": { "lat": 49.860, "lon": 8.670 }, "approx_radius_m": 3500 },
+  "duration": { "min_minutes": 90, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 30, "notes": "Je nach Startpunkt." },
+  "mobility": {
+    "modes_ok": ["walk", "bike", "public", "car"],
+    "car_recommended": false,
+    "notes": "Flexibel: zu Fuß/Rad sehr gut."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["0-5", "6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Wege je nach Route."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "no", "best_weather": "sunny" },
+  "cost": { "type": "free", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Picknick selbst mitbringen." },
+  "images": [{ "src": "img/prinzenberg-ludwigshoehe-picknick.png", "alt": "Picknick in Darmstadt (Wald/Aussicht)" }],
+  "highlights": ["Sehr flexibel", "Kostenlos", "Top für ruhige Tage"],
+  "itinerary_steps": [
+    { "title": "Snack packen", "hint": "Decke, Wasser, 1–2 Lieblingssnacks." },
+    { "title": "Raus & Platz suchen", "hint": "10 Minuten suchen lohnt sich." },
+    { "title": "Kurze Runde danach", "hint": "Zum Abschluss 15–30 Minuten laufen." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-vivarium",
+  "slug": "vivarium-darmstadt",
+  "title": "Vivarium Darmstadt – Tiere, draußen & drinnen gemischt",
+  "summary": "Tiererlebnis mit viel Bewegung, ideal für Familien und kurze Auszeiten.",
+  "description": "Klassiker in Darmstadt: Tiere anschauen, viel laufen, kleine Entdeckungen. Funktioniert als kurzes Erlebnis oder als entspannter Halbtagsausflug.",
+  "main_category": "tiere-naturerlebnis",
+  "tags": ["mixed", "kids-ok", "animals", "active", "photo", "paid", "short", "halfday"],
+  "emoji_tags": ["🦎", "🐾", "🧒", "📸", "⚡"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Nähe Lichtwiese",
+    "start_point_hint": "Vivarium – Haupteingang (Hinweise vor Ort)."
+  },
+  "geo": {
+    "center": { "lat": 49.846, "lon": 8.669 },
+    "approx_radius_m": 1200
+  },
+  "duration": { "min_minutes": 90, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 10, "max_minutes": 30, "notes": "Je nach Startpunkt." },
+  "mobility": {
+    "modes_ok": ["public", "bike", "car"],
+    "car_recommended": false,
+    "notes": "Viel zu Fuß im Gelände."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["0-5", "6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Je nach Wegen/Andrang."
+  },
+  "vibe": { "action_level": 2, "calm_level": 3 },
+  "setting": { "indoor_outdoor": "mixed", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": {
+    "type": "paid",
+    "min_eur_pp": 0,
+    "max_eur_pp": 0,
+    "notes": "Eintritt – Preise/Zeiten vor Ort prüfen."
+  },
+  "images": [
+    { "src": "img/vivarium-darmstadt.png", "alt": "Vivarium Darmstadt" }
+  ],
+  "highlights": [
+    "Sehr familienfreundlich",
+    "Mischung aus Bewegung & Staunen",
+    "Guter 'Plan B' für spontane Tage"
+  ],
+  "itinerary_steps": [
+    { "title": "Ankommen & Route grob setzen", "hint": "Erst die 'Must-Sees', dann freie Runde." },
+    { "title": "Snack/Pause", "hint": "Kurzer Break steigert die Laune deutlich." },
+    { "title": "Lieblingsstation nochmal", "hint": "Zum Abschluss nochmal zum Top-Tier." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

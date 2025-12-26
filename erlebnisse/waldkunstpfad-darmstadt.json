@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-waldkunstpfad",
+  "slug": "waldkunstpfad-darmstadt",
+  "title": "Waldkunstpfad Darmstadt – Kunst + Natur kombinieren",
+  "summary": "Sehr gutes 'gemischtes' Erlebnis: spazieren und Kunstwerke entdecken.",
+  "description": "Ideal für ruhige Tage: ihr lauft entspannt, habt aber durch die Kunststationen immer wieder kleine Highlights. Super für 1–3 Stunden.",
+  "main_category": "wandern-wege",
+  "tags": ["outdoor", "culture", "calm", "free", "short", "photo", "walk-friendly", "sunny-best"],
+  "emoji_tags": ["🥾", "🧑‍🎨", "🌳", "📸", "🆓"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Waldgebiet",
+    "start_point_hint": "Einstieg je nach Route."
+  },
+  "geo": { "center": { "lat": 49.860, "lon": 8.680 }, "approx_radius_m": 6000 },
+  "duration": { "min_minutes": 60, "max_minutes": 180 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 25, "notes": "Je nach Einstieg." },
+  "mobility": {
+    "modes_ok": ["walk", "bike", "public"],
+    "car_recommended": false,
+    "notes": "Stadtnah, gut kombinierbar."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "limited",
+    "notes": "Wege teils naturbelassen."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": { "type": "free", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "In der Regel kostenlos." },
+  "images": [{ "src": "img/waldkunstpfad-darmstadt.png", "alt": "Waldkunstpfad Darmstadt" }],
+  "highlights": ["Kunst + Natur", "Sehr planungsarm", "Top für ruhige Tage"],
+  "itinerary_steps": [
+    { "title": "Start", "hint": "1–2 Stationen als Mini-Ziel setzen." },
+    { "title": "Entdecken", "hint": "Kurze Foto-/Gesprächspausen." },
+    { "title": "Ausklang", "hint": "Optional Café/Spaziergang weiter." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

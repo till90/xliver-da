@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "categories": [
+    {
+      "slug": "natur-aussicht",
+      "title": "Natur & Aussicht",
+      "portal_emoji": "🌅",
+      "description": "Spaziergänge, Aussichtspunkte, Picknick-Spots, Natur-Orte.",
+      "order": 10
+    },
+    {
+      "slug": "wandern-wege",
+      "title": "Wandern & Themenwege",
+      "portal_emoji": "🥾",
+      "description": "Routen, Rundwege, Pfade, Themenpfade und kleine Touren.",
+      "order": 20
+    },
+    {
+      "slug": "tiere-naturerlebnis",
+      "title": "Tiere & Naturerlebnis",
+      "portal_emoji": "🐾",
+      "description": "Tierparks, Vivarium, Lama-Wanderungen und Natur mit Wow-Faktor.",
+      "order": 30
+    },
+    {
+      "slug": "klettern-kletterwald",
+      "title": "Klettern & Hoch hinaus",
+      "portal_emoji": "🧗",
+      "description": "Kletterwälder, Bouldern, Hochseil und aktive Herausforderungen.",
+      "order": 40
+    },
+    {
+      "slug": "kultur-geschichte",
+      "title": "Kultur, Museum & Geschichte",
+      "portal_emoji": "🏛️",
+      "description": "Museen, Burgen, Führungen, Theater, Geschichte.",
+      "order": 50
+    },
+    {
+      "slug": "familie-spielplatz",
+      "title": "Spielplätze & Familienhits",
+      "portal_emoji": "🛝",
+      "description": "alla hopp!, Spielplätze, kinderfreundliche Ausflüge.",
+      "order": 60
+    },
+    {
+      "slug": "action-freizeitpark",
+      "title": "Action & Freizeitparks",
+      "portal_emoji": "🎢",
+      "description": "Freizeitparks, Lasertag, Trampolinhalle, Adrenalin.",
+      "order": 70
+    },
+    {
+      "slug": "wasser-schwimmen",
+      "title": "Wasser, Schwimmen & Boote",
+      "portal_emoji": "🏊",
+      "description": "Badestellen, Seen, Tretboot, Wasser-Aktivitäten.",
+      "order": 80
+    },
+    {
+      "slug": "indoor-regenprogramm",
+      "title": "Regenprogramm & Indoor",
+      "portal_emoji": "🌧️",
+      "description": "Indoor-Erlebnisse, die auch bei schlechtem Wetter funktionieren.",
+      "order": 90
+    },
+    {
+      "slug": "besondere-erlebnisse",
+      "title": "Besondere Erlebnisse",
+      "portal_emoji": "✨",
+      "description": "Draisinen, Sternwarte, Miniaturwelten und alles, was heraussticht.",
+      "order": 100
+    }
+  ]
+}

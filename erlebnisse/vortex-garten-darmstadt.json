@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-vortex-garten",
+  "slug": "vortex-garten-darmstadt",
+  "title": "Vortex Garten – kleine, ruhige Auszeit (kostenlos)",
+  "summary": "Kurzer Ruhe-Ort in Darmstadt: perfekt für 30–90 Minuten.",
+  "description": "Ein Ort für eine kleine Pause: hingehen, wirken lassen, kurz durchatmen. Ideal für besinnliche Tage oder als Mini-Stop auf einer größeren Runde.",
+  "main_category": "natur-aussicht",
+  "tags": ["outdoor", "calm", "free", "short", "photo", "sunny-best", "walk-friendly"],
+  "emoji_tags": ["🧘", "🌿", "🆓", "🌳", "📸"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Stadtgebiet",
+    "start_point_hint": "Vortex Garten – Zugang vor Ort."
+  },
+  "geo": { "center": { "lat": 49.870, "lon": 8.650 }, "approx_radius_m": 1200 },
+  "duration": { "min_minutes": 30, "max_minutes": 90 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 25, "notes": "Je nach Startpunkt." },
+  "mobility": {
+    "modes_ok": ["walk", "bike", "public"],
+    "car_recommended": false,
+    "notes": "Ideal als Fuß-/Rad-Stop."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["0-5", "6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Je nach Wegen."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": { "type": "free", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Laut deiner Liste: kostenlos." },
+  "images": [{ "src": "img/vortex-garten-darmstadt.png", "alt": "Vortex Garten Darmstadt" }],
+  "highlights": ["Sehr planungsarm", "Besinnlich & ruhig", "Kostenlos"],
+  "itinerary_steps": [
+    { "title": "Ankommen", "hint": "5 Minuten ohne Handy." },
+    { "title": "Mini-Runde", "hint": "Langsam gehen, Details anschauen." },
+    { "title": "Abschluss", "hint": "Optional: Kaffee/Spaziergang weiter." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

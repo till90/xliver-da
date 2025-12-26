@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "tags": [
+    { "slug": "outdoor", "emoji": "🌳", "label": "Draußen", "group": "setting" },
+    { "slug": "indoor", "emoji": "🏠", "label": "Drinnen", "group": "setting" },
+    { "slug": "mixed", "emoji": "🌓", "label": "Gemischt", "group": "setting" },
+
+    { "slug": "walk-friendly", "emoji": "🚶", "label": "Zu Fuß geeignet", "group": "mobility" },
+    { "slug": "bike-friendly", "emoji": "🚴", "label": "Fahrrad geeignet", "group": "mobility" },
+    { "slug": "public-friendly", "emoji": "🚆", "label": "ÖPNV-freundlich", "group": "mobility" },
+    { "slug": "car-recommended", "emoji": "🚗", "label": "Auto empfohlen", "group": "mobility" },
+
+    { "slug": "kids-ok", "emoji": "🧒", "label": "Kinder geeignet", "group": "family" },
+    { "slug": "stroller-ok", "emoji": "🍼", "label": "Kinderwagen möglich", "group": "family" },
+
+    { "slug": "calm", "emoji": "🧘", "label": "Besinnlich/ruhig", "group": "vibe" },
+    { "slug": "active", "emoji": "⚡", "label": "Aktiv", "group": "vibe" },
+    { "slug": "action", "emoji": "🔥", "label": "Action", "group": "vibe" },
+
+    { "slug": "nature", "emoji": "🏞️", "label": "Natur", "group": "theme" },
+    { "slug": "culture", "emoji": "🏛️", "label": "Kultur", "group": "theme" },
+    { "slug": "animals", "emoji": "🦎", "label": "Tiere", "group": "theme" },
+    { "slug": "geo-felsen-hoehle", "emoji": "🪨", "label": "Felsen/Höhle/Geo", "group": "theme" },
+    { "slug": "water", "emoji": "💦", "label": "Wasser", "group": "theme" },
+    { "slug": "photo", "emoji": "📸", "label": "Fotogen", "group": "theme" },
+
+    { "slug": "free", "emoji": "🆓", "label": "Kostenlos", "group": "cost" },
+    { "slug": "paid", "emoji": "💶", "label": "Kostenpflichtig", "group": "cost" },
+
+    { "slug": "short", "emoji": "⏱️", "label": "Kurz", "group": "time" },
+    { "slug": "halfday", "emoji": "🧭", "label": "Halbtag", "group": "time" },
+    { "slug": "fullday", "emoji": "🗺️", "label": "Ganztag", "group": "time" },
+
+    { "slug": "rain-ok", "emoji": "☔", "label": "Regen-tauglich", "group": "weather" },
+    { "slug": "sunny-best", "emoji": "☀️", "label": "Am besten bei Sonne", "group": "weather" }
+  ]
+}

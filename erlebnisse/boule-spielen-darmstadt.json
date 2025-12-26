@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-boule-spielen",
+  "slug": "boule-spielen-darmstadt",
+  "title": "Boule spielen – low effort, hoher Spaßfaktor",
+  "summary": "Kurz, günstig, draußen: perfekt als spontanes Mikro-Abenteuer.",
+  "description": "Wenn niemand weiß, was man machen soll: Boule ist ideal. Funktioniert im Park, mit Getränk, mit/ohne Kinder – und braucht kaum Vorbereitung.",
+  "main_category": "besondere-erlebnisse",
+  "tags": ["outdoor", "calm", "free", "short", "kids-ok", "sunny-best"],
+  "emoji_tags": ["🎯", "🌳", "🧒", "🆓", "☀️"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Parks/Plätze",
+    "start_point_hint": "Bouleplatz oder ebene Fläche im Park."
+  },
+  "geo": { "center": { "lat": 49.872, "lon": 8.650 }, "approx_radius_m": 5000 },
+  "duration": { "min_minutes": 45, "max_minutes": 120 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 0, "max_minutes": 20, "notes": "Je nach Ort." },
+  "mobility": {
+    "modes_ok": ["walk", "bike", "public"],
+    "car_recommended": false,
+    "notes": "Perfekt ohne Auto."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Mit Kindern als 'Zielwerfen'-Spiel anpassen."
+  },
+  "vibe": { "action_level": 1, "calm_level": 4 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "no", "best_weather": "sunny" },
+  "cost": { "type": "free", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Set vorausgesetzt; sonst minimal." },
+  "images": [{ "src": "img/boule-spielen-darmstadt.png", "alt": "Boule im Park" }],
+  "highlights": ["Spontan & simpel", "Für fast jede Gruppe geeignet", "Sehr guter Starter für 'wir machen was'"],
+  "itinerary_steps": [
+    { "title": "Ort wählen", "hint": "Park/Platz, wo ihr euch wohlfühlt." },
+    { "title": "Kurz Regeln", "hint": "2 Minuten Erklärung, dann spielen." },
+    { "title": "Abschluss", "hint": "Optional: Spaziergang oder Eis." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "odenwald-burg-breuberg-kinderfuehrung",
+  "slug": "burg-breuberg-kinderfuehrung",
+  "title": "Burg Breuberg – Kinderführung (Geschichte zum Anfassen)",
+  "summary": "Familienfreundliche Führung in einer echten Burgkulisse.",
+  "description": "Ein tolles Kultur- und Geschichtserlebnis für Kinder: Burg erkunden, Geschichten hören, Atmosphäre erleben. Ideal als Halbtagsausflug.",
+  "main_category": "kultur-geschichte",
+  "tags": ["outdoor", "kids-ok", "culture", "calm", "paid", "halfday", "photo"],
+  "emoji_tags": ["🏰", "🧒", "✨", "📸", "🏛️"],
+  "where": {
+    "city": "Breuberg",
+    "region": "Odenwald",
+    "start_point_hint": "Burg Breuberg – Tickets/Start Führung vor Ort."
+  },
+  "geo": { "center": { "lat": 49.800, "lon": 9.000 }, "approx_radius_m": 2000 },
+  "duration": { "min_minutes": 90, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 45, "max_minutes": 80, "notes": "Grob Odenwald-Range." },
+  "mobility": {
+    "modes_ok": ["car"],
+    "car_recommended": true,
+    "notes": "ÖPNV je nach Verbindung möglich, Auto meist einfacher."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "limited",
+    "notes": "Burg hat oft Stufen/uneven Wege."
+  },
+  "vibe": { "action_level": 1, "calm_level": 4 },
+  "setting": { "indoor_outdoor": "mixed", "rain_ok": "limited", "best_weather": "dry" },
+  "cost": { "type": "paid", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Führung/Eintritt – vor Ort prüfen." },
+  "images": [{ "src": "img/burg-breuberg-kinderfuehrung.png", "alt": "Burg Breuberg" }],
+  "highlights": ["Stark für Familien", "Atmosphäre & Geschichte", "Sehr fotogen"],
+  "itinerary_steps": [
+    { "title": "Ankommen", "hint": "Slot/Startzeit checken." },
+    { "title": "Kinderführung", "hint": "Fragen stellen lassen – macht es lebendig." },
+    { "title": "Burg-Runde", "hint": "Kurzer Rundgang / Aussicht." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "id": "darmstadt-oberwaldhaus-minigolf-tretboot",
+  "slug": "oberwaldhaus-minigolf-tretboot",
+  "title": "Oberwaldhaus – Minigolf & Tretboot (Familien-Combo)",
+  "summary": "Sehr dankbares 'wir machen einfach was'-Erlebnis: Bewegung, Wasser, Spiel.",
+  "description": "Im Wald- und Wasser-Setting kannst du unkompliziert einen schönen Block füllen: erst Minigolf (oder umgekehrt), dann Tretboot. Funktioniert besonders gut im Frühling/Sommer.",
+  "main_category": "wasser-schwimmen",
+  "tags": ["outdoor", "kids-ok", "water", "active", "paid", "halfday", "sunny-best"],
+  "emoji_tags": ["🚣", "⛳", "🧒", "🌳", "☀️"],
+  "where": {
+    "city": "Darmstadt",
+    "region": "Oberwaldhaus",
+    "start_point_hint": "Oberwaldhaus – Bereich Minigolf/Tretboot (vor Ort ausgeschildert)."
+  },
+  "geo": {
+    "center": { "lat": 49.839, "lon": 8.686 },
+    "approx_radius_m": 1500
+  },
+  "duration": { "min_minutes": 120, "max_minutes": 240 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 10, "max_minutes": 30, "notes": "Je nach Startpunkt." },
+  "mobility": {
+    "modes_ok": ["bike", "car", "public"],
+    "car_recommended": false,
+    "notes": "Vor Ort viel zu Fuß zwischen Stationen."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Tretboot je nach Alter/Größe; bitte vor Ort entscheiden."
+  },
+  "vibe": { "action_level": 2, "calm_level": 3 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "no", "best_weather": "sunny" },
+  "cost": {
+    "type": "paid",
+    "min_eur_pp": 0,
+    "max_eur_pp": 0,
+    "notes": "Minigolf/Tretboot kostenpflichtig – Preise/Öffnung vor Ort prüfen."
+  },
+  "images": [
+    { "src": "img/oberwaldhaus-minigolf-tretboot.png", "alt": "Oberwaldhaus Darmstadt: Wasser & Freizeit" }
+  ],
+  "highlights": [
+    "Sehr planungsarm, hoher Spaßfaktor",
+    "Wasser + Spiel = sichere Kombi",
+    "Gut für 2–4 Stunden"
+  ],
+  "itinerary_steps": [
+    { "title": "Minigolf", "hint": "Warmwerden, Teammodus, kurze Pause." },
+    { "title": "Tretboot", "hint": "Langsam, entspannt, viel Aussicht." },
+    { "title": "Ausklang", "hint": "Kurzer Spaziergang/Imbiss je nach Laune." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

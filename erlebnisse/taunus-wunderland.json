@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "taunus-taunus-wunderland",
+  "slug": "taunus-wunderland",
+  "title": "Taunus Wunderland – Freizeitpark-Tag (Familienhit)",
+  "summary": "Freizeitpark-Klassiker: Action, Fahrgeschäfte, ganzer Tag möglich.",
+  "description": "Wenn ihr einen klaren 'Event-Tag' wollt: rein, treiben lassen, Attraktionen sammeln. Ideal für Familien und Gruppen, besonders bei gutem Wetter.",
+  "main_category": "action-freizeitpark",
+  "tags": ["outdoor", "kids-ok", "action", "paid", "fullday", "sunny-best"],
+  "emoji_tags": ["🎢", "🧒", "🔥", "☀️", "✨"],
+  "where": {
+    "city": "Taunus (Region Frankfurt)",
+    "region": "Rhein-Main",
+    "start_point_hint": "Eingang/Anreise wie vor Ort angegeben."
+  },
+  "geo": { "center": { "lat": 50.200, "lon": 8.150 }, "approx_radius_m": 4000 },
+  "duration": { "min_minutes": 240, "max_minutes": 480 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 40, "max_minutes": 90, "notes": "Je nach Verkehr." },
+  "mobility": {
+    "modes_ok": ["car"],
+    "car_recommended": true,
+    "notes": "Freizeitpark-Anreise meist per Auto am einfachsten."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["0-5", "6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Familienziel; Attraktionen altersabhängig."
+  },
+  "vibe": { "action_level": 5, "calm_level": 1 },
+  "setting": { "indoor_outdoor": "outdoor", "rain_ok": "limited", "best_weather": "sunny" },
+  "cost": { "type": "paid", "min_eur_pp": 30, "max_eur_pp": 30, "notes": "Laut deiner Liste: ca. 30€." },
+  "images": [{ "src": "img/taunus-wunderland.png", "alt": "Taunus Wunderland" }],
+  "highlights": ["Klarer Event-Tag", "Sehr geeignet für Kinder", "Hoher Action-Faktor"],
+  "itinerary_steps": [
+    { "title": "Plan grob", "hint": "2–3 Must-Attraktionen zuerst, Rest frei." },
+    { "title": "Pausen", "hint": "Kinderpausen früh einbauen." },
+    { "title": "Finale Runde", "hint": "Lieblingsattraktion nochmal." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}

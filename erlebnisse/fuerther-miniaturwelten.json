@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "id": "odenwald-fuerther-miniaturwelten",
+  "slug": "fuerther-miniaturwelten",
+  "title": "Fürther Miniaturwelten – Indoor-Highlight (Regen-proof)",
+  "summary": "Miniaturwelten anschauen, staunen, Details suchen — sehr gut mit Kindern.",
+  "description": "Perfekt als Regenprogramm oder wenn ihr etwas Ruhiges sucht. Ideal 1–2 Stunden, kann aber auch länger tragen, wenn Kinder gerne Details entdecken.",
+  "main_category": "indoor-regenprogramm",
+  "tags": ["indoor", "kids-ok", "calm", "paid", "short", "rain-ok", "photo"],
+  "emoji_tags": ["🏠", "🌧️", "🧒", "✨", "📸"],
+  "where": {
+    "city": "Fürth (Odenwald)",
+    "region": "Odenwald",
+    "start_point_hint": "Miniaturwelten – Eingang vor Ort."
+  },
+  "geo": { "center": { "lat": 49.650, "lon": 8.790 }, "approx_radius_m": 2000 },
+  "duration": { "min_minutes": 60, "max_minutes": 150 },
+  "travel_from": { "origin": "Darmstadt", "min_minutes": 40, "max_minutes": 70, "notes": "Laut deiner Liste ca. 50 min." },
+  "mobility": {
+    "modes_ok": ["car"],
+    "car_recommended": true,
+    "notes": "Auto praktisch."
+  },
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "mostly",
+    "notes": "Indoor; je nach Layout."
+  },
+  "vibe": { "action_level": 1, "calm_level": 5 },
+  "setting": { "indoor_outdoor": "indoor", "rain_ok": "yes", "best_weather": "any" },
+  "cost": { "type": "paid", "min_eur_pp": 10, "max_eur_pp": 10, "notes": "Laut deiner Liste: 10€." },
+  "images": [{ "src": "img/fuerther-miniaturwelten.png", "alt": "Fürther Miniaturwelten" }],
+  "highlights": ["Top Regenprogramm", "Kinder suchen Details", "Kurzes, hochwertiges Erlebnis"],
+  "itinerary_steps": [
+    { "title": "Rein & Überblick", "hint": "Kurz schauen, welche Bereiche ihr sehen wollt." },
+    { "title": "Detail-Suche", "hint": "Suchspiel: 'Findet 10 lustige Details'." },
+    { "title": "Finale Runde", "hint": "Lieblingsbereich nochmal." }
+  ],
+  "links": [],
+  "updated": "2025-12-26"
+}
