@@ -23,6 +23,13 @@
       "order": 30
     },
     {
+      "slug": "basteln-kreativ",
+      "title": "Basteln & Kreativ",
+      "portal_emoji": "🎨",
+      "description": "Kreative Projekte, Bastelideen und DIY-Anleitungen für zu Hause.",
+      "order": 35
+    },
+    {
       "slug": "klettern-kletterwald",
       "title": "Klettern & Hoch hinaus",
       "portal_emoji": "🧗",

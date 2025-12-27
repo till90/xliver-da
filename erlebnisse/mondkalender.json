@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "id": "mondkalender-basteln",
+  "slug": "mondkalender-basteln",
+  "title": "Mondkalender basteln (mit PDF-Vorlage)",
+  "summary": "Ein kreatives Bastelprojekt für zu Hause: Gestalte deinen eigenen Mondkalender für das kommende Jahr.",
+  "description": "Mit unserer kostenlosen PDF-Vorlage kannst du ganz einfach einen wunderschönen Mondkalender basteln. Alles, was du brauchst, ist ein Drucker, Schere, Kleber und etwas Geduld. Perfekt für einen gemütlichen Nachmittag oder als Geschenk.",
+  "main_category": "basteln-kreativ",
+  "tags": ["indoor", "calm", "free", "short", "creative", "diy"],
+  "emoji_tags": ["🎨", "✂️", "🆓", "🏠", "🎁"],
+  "where": {
+    "city": "Zuhause",
+    "region": "Überall",
+    "start_point_hint": "Dein Basteltisch"
+  },
+  "geo": null,
+  "duration": { "min_minutes": 45, "max_minutes": 120 },
+  "travel_from": null,
+  "mobility": null,
+  "family": {
+    "kids_ok": true,
+    "recommended_kid_ages": ["6-10", "11+"],
+    "stroller_ok": "not-applicable",
+    "notes": "Jüngere Kinder benötigen eventuell Hilfe beim Ausschneiden."
+  },
+  "vibe": { "action_level": 2, "calm_level": 4 },
+  "setting": { "indoor_outdoor": "indoor", "rain_ok": "yes", "best_weather": "any" },
+  "cost": { "type": "free", "min_eur_pp": 0, "max_eur_pp": 0, "notes": "Die Druckvorlage ist kostenlos. Materialkosten können anfallen." },
+  "images": [{ "src": "img/mondkalender-basteln.png", "alt": "Gebastelter Mondkalender" }],
+  "highlights": ["Kreativ werden", "Kostenlose Vorlage", "Tolles Geschenk"],
+  "itinerary_steps": [
+    { "title": "Materialien vorbereiten", "hint": "Vorlage ausdrucken, Schere, Kleber und Stifte bereitlegen." },
+    { "title": "Ausschneiden & Kleben", "hint": "Alle Teile sorgfältig ausschneiden und nach Anleitung zusammenfügen." },
+    { "title": "Gestalten", "hint": "Den Kalender nach Belieben bemalen und verzieren." }
+  ],
+  "downloads": [
+    {
+      "title": "PDF-Vorlage Mondkalender",
+      "file": "data/26_Moon_Calendar_Color.pdf",
+      "description": "Druckvorlage für den Mondkalender (farbig)."
+    }
+  ],
+  "links": [],
+  "updated": "2025-12-27"
+}

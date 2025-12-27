@@ -4,6 +4,20 @@
   "updated": "2025-12-26",
   "items": [
     {
+      "id": "mondkalender-basteln",
+      "slug": "mondkalender-basteln",
+      "title": "Mondkalender basteln (mit PDF-Vorlage)",
+      "summary": "Ein kreatives Bastelprojekt für zu Hause: Gestalte deinen eigenen Mondkalender für das kommende Jahr.",
+      "main_category": "basteln-kreativ",
+      "tags": ["indoor", "calm", "free", "short", "creative", "diy"],
+      "emoji_tags": ["🎨", "✂️", "🆓", "🏠", "🎁"],
+      "duration": { "min_minutes": 45, "max_minutes": 120 },
+      "travel_from": null,
+      "cost": { "type": "free", "max_eur_pp": 0 },
+      "image": "img/mondkalender-basteln.png",
+      "file": "erlebnisse/mondkalender.json"
+    },
+    {
       "id": "odenwald-felsenmeer-lautertal",
       "slug": "felsenmeer-lautertal",
       "title": "Felsenmeer – Odenwald-Klassiker zum Klettern & Staunen",
